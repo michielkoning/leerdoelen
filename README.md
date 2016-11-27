@@ -43,12 +43,12 @@ Icons worden in SVG geserveerd ipv iconfonts.
 
 ### WebP
 Afbeeldingen worden in WebP geserveerd als toevoeging op jpeg
-### Toegepast op:
+#### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 
 ### Responsive images
 Afbeeldingen worden als responsive image ingeladen
-### Toegepast op:
+#### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 
 ## Server

@@ -37,6 +37,7 @@ Alle sites moeten ook functioneren zonder javascript.
 Icons worden in SVG geserveerd ipv iconfonts.  
 #### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)  
+
 #### Bronnen:
 * [Practical SVG](https://abookapart.com/products/practical-svg)
 

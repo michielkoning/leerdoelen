@@ -14,8 +14,8 @@ Een overzicht van technieken en standaarden die ik wil toepassen op eigen ontwik
 
 ## Pushnotifications
 
-## SVGS
-Logos en icons worden in SVG geserveerd ipv iconfonts.  
+## Icons
+Icons worden in SVG geserveerd ipv iconfonts.  
 ### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 ### Bronnen:

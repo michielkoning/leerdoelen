@@ -2,23 +2,23 @@
 
 Een overzicht van technieken en standaarden die ik wil toepassen op eigen ontwikkelde sites.
 
-## Service workers
-### Toegepast op:
-### Bronnen:
+## Javascript
+### ES6
+### Service workers
+#### Toegepast op:
+#### Bronnen:
 * [Eenvoudig contactformulier formulier met ajax en service workers](https://justmarkup.com/log/2016/10/enhancing-a-comment-form/)
 
-## Optimalisatie voor accessibility
-### Toegepast op:
-### Bronnen:
+### Optimalisatie voor accessibility
+#### Toegepast op:
+#### Bronnen:
 * [Apps For All: Coding Accessible Web Applications](https://shop.smashingmagazine.com/products/apps-for-all)
-
-## Pushnotifications
-
-## Icons
+### Pushnotifications
+### Icons
 Icons worden in SVG geserveerd ipv iconfonts.  
-### Toegepast op:
-* [zee in beweging](https://zeeinbeweging.nl/)
-### Bronnen:
+#### Toegepast op:
+* [zee in beweging](https://zeeinbeweging.nl/)  
+#### Bronnen:
 * [Practical SVG](https://abookapart.com/products/practical-svg)
 
 ## WebP

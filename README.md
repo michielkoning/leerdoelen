@@ -9,24 +9,29 @@ Een overzicht van technieken en standaarden die ik wil toepassen op eigen ontwik
 ## [Optimalisatie voor accessibility](https://shop.smashingmagazine.com/products/apps-for-all)
 ### Toegepast op:
 
-## svgs as icons ipv iconfonts  
+## SVGS
+Logos en icons worden in SVG geserveerd ipv iconfonts.
 ### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 
-## elke site maakt gebruik van ssl  
+## SSL
+Elke site maakt gebruik van ssl.
 ### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 * [kompas advocatuur](http://kompas-advocatuur.nl/)
 
-## elke site wordt geschreven in vanilla js  
+## Vanilla JS
+Elke site wordt geschreven in vanilla js ipv jQuery.
 ### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 
-## sites maken gebruik van polyfills waar mogelijk  
+## Polyfills
+Sites maken gebruik van polyfills waar mogelijk.
 ### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 
-## sites werken ook zonder javascript  
+## Javascript disabled
+Alle sites moeten ook functioneren zonder javascript.
 ### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 * [kompas advocatuur](http://kompas-advocatuur.nl/)

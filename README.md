@@ -10,7 +10,8 @@ Een overzicht van technieken en standaarden die ik wil toepassen op eigen ontwik
 ### Toegepast op:
 
 ## SVGS
-Logos en icons worden in SVG geserveerd ipv iconfonts.
+Logos en icons worden in SVG geserveerd ipv iconfonts.  
+[Practical SVG](https://abookapart.com/products/practical-svg)
 ### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 

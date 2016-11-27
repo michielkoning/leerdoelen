@@ -31,6 +31,7 @@ Elke site maakt gebruik van ssl.
 ### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 * [kompas advocatuur](http://kompas-advocatuur.nl/)
+* [Loesje](http://www.loesje.nl/)
 
 ## Vanilla JS
 Elke site wordt geschreven in vanilla js ipv jQuery.

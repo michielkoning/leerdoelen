@@ -25,4 +25,4 @@ toegepast op
 * sites werken ook zonder javascript
 toegepast op
     * [zee in beweging](https://zeeinbeweging.nl/)
-    * [kompas advocatuur](http://kompas-advocatuur.nl/)
+    * [kompas advocatuur](http://kompas-advocatuur.nl/)

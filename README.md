@@ -53,3 +53,9 @@ Alle sites moeten ook functioneren zonder javascript.
 ### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 * [kompas advocatuur](http://kompas-advocatuur.nl/)
+
+
+## Em
+Units in css worden gedefinieerd in em ipv pixels
+### Toegepast op:
+* [zee in beweging](https://zeeinbeweging.nl/)

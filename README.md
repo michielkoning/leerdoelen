@@ -6,7 +6,8 @@ Een overzicht van technieken en standaarden die ik wil toepassen op eigen ontwik
 [Eenvoudig contactformulier formulier met ajax en service workers](https://justmarkup.com/log/2016/10/enhancing-a-comment-form/)
 ### Toegepast op:
 
-## [Optimalisatie voor accessibility](https://shop.smashingmagazine.com/products/apps-for-all)
+## Optimalisatie voor accessibility
+[Apps For All: Coding Accessible Web Applications](https://shop.smashingmagazine.com/products/apps-for-all)
 ### Toegepast op:
 
 ## SVGS

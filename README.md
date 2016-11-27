@@ -16,6 +16,15 @@ Logos en icons worden in SVG geserveerd ipv iconfonts.
 ### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 
+## WebP
+Afbeeldingen worden in WebP geserveerd als toevoeging op jpeg
+### Toegepast op:
+* [zee in beweging](https://zeeinbeweging.nl/)
+
+## Responsive images
+Afbeeldingen worden als responsive image ingeladen
+### Toegepast op:
+
 ## SSL
 Elke site maakt gebruik van ssl.
 ### Toegepast op:

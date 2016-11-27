@@ -12,6 +12,7 @@ toegepast op
 * elke site maakt gebruik van ssl
 toegepast op 
     * [zee in beweging](https://zeeinbeweging.nl/)
+    * [kompas advocatuur](http://kompas-advocatuur.nl/)
 
 * elke site wordt geschreven in vanilla js
 toegepast op 
@@ -24,3 +25,4 @@ toegepast op
 * sites werken ook zonder javascript
 toegepast op
     * [zee in beweging](https://zeeinbeweging.nl/)
+    * [kompas advocatuur](http://kompas-advocatuur.nl/)

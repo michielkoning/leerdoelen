@@ -17,7 +17,7 @@ toegepast op
 
 * elke site wordt geschreven in vanilla js  
 toegepast op 
-    [zee in beweging](https://zeeinbeweging.nl/)
+    * [zee in beweging](https://zeeinbeweging.nl/)
 
 * sites maken gebruik van polyfills waar mogelijk  
 toegepast op

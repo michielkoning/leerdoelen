@@ -24,6 +24,7 @@ Afbeeldingen worden in WebP geserveerd als toevoeging op jpeg
 ## Responsive images
 Afbeeldingen worden als responsive image ingeladen
 ### Toegepast op:
+* [zee in beweging](https://zeeinbeweging.nl/)
 
 ## SSL
 Elke site maakt gebruik van ssl.

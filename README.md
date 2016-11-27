@@ -5,7 +5,7 @@ Een overzicht van technieken en standaarden die ik wil toepassen op eigen ontwik
 * [service workers](https://justmarkup.com/log/2016/10/enhancing-a-comment-form/)
 * [optimalisatie voor accessibility](https://shop.smashingmagazine.com/products/apps-for-all)
 
-* svgs as icons ipv iconfonts  
+* ## svgs as icons ipv iconfonts  
 toegepast op 
     * [zee in beweging](https://zeeinbeweging.nl/)
 

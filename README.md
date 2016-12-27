@@ -69,3 +69,7 @@ Elke site maakt gebruik van ssl.
 Units in css worden gedefinieerd in em ipv pixels
 #### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
+
+### PostCSS ipv sass
+
+### Baseline grid

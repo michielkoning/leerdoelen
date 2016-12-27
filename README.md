@@ -32,6 +32,10 @@ Alle sites moeten ook functioneren zonder javascript.
 
 ### Pushnotifications
 
+### Offline toegankelijk
+#### Toegepast op:
+* [zee in beweging](https://zeeinbeweging.nl/)
+
 ## Afbeeldingen
 ### Icons
 Icons worden in SVG geserveerd ipv iconfonts.  

@@ -36,6 +36,11 @@ Alle sites moeten ook functioneren zonder javascript.
 #### Toegepast op:
 * [zee in beweging](https://zeeinbeweging.nl/)
 
+### AMP
+#### Bronnen:
+* [AMP](https://www.ampproject.org/)
+* [Voorbeeld] (http://www.volkskrant.nl/economie/rampzalig-beursjaar-bleef-uit-zelden-had-analist-het-zo-mis~a4442676/amp)
+
 ## Afbeeldingen
 ### Icons
 Icons worden in SVG geserveerd ipv iconfonts.  

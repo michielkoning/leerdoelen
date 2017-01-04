@@ -8,6 +8,7 @@ Een overzicht van technieken en standaarden die ik wil toepassen op eigen ontwik
 ### Service workers
 #### Bronnen:
 * [Eenvoudig contactformulier formulier met ajax en service workers](https://justmarkup.com/log/2016/10/enhancing-a-comment-form/)
+* [A simple ServiceWorker tutorial](https://github.com/jakearchibald/simple-serviceworker-tutorial)
 
 ### Vanilla JS
 Elke site wordt geschreven in vanilla js ipv jQuery.

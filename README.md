@@ -83,3 +83,6 @@ Units in css worden gedefinieerd in em ipv pixels
 ## Workflow
 ### Webpack
 ### Vinden van een goede linter (css en js)
+
+### Uploaden via github
+https://css-tricks.com/deploying-bitbucket-wordpress/
